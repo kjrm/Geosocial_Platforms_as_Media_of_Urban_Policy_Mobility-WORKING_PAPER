@@ -1,4 +1,4 @@
-# Study 2: Geosocial Platform as Policy Implement
+# Study 2: Platform as policy implement
 # code
 This repository contains a python notebook with the code necessary to complete the study.
 
