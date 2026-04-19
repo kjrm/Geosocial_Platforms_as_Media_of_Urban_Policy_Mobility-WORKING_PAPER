@@ -1,6 +1,6 @@
 # Study 2: Platform as policy implement
 # code
-This repository contains a python notebook (`study2-1`) with the code necessary to complete the study.
+This repository contains a python notebook (`study2-1.pynb`) with the code necessary to complete the study.
 
 The notebook relies on data accessible on the Yelp website (https://business.yelp.com/data/resources/open-dataset/). Specifically, the following files:
 - yelp_academic_dataset_review.json
