@@ -1,2 +1,2 @@
-# Study 1: Geosocial Platform as Feedback Tool
+# Study 1: Platform as feedback tool
 
