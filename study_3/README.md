@@ -1,1 +1,4 @@
-# Study 3: Geosocial Platform as Facilitator of Sentiment Flow
+# Study 3: Platform as facilitator of sentiment and idea flow
+# code
+
+
