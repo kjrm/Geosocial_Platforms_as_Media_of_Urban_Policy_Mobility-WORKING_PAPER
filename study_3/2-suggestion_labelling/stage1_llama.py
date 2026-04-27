@@ -3,7 +3,7 @@ stage1_llama.py
 ===============
 Stage 1: Run Llama 3 (via Ollama) on all filtered reviews.
 
-Input:  brewpub_reviews_with_meta.csv  (or --input)
+Input:  PA_brewpub_reviews.csv  (or --input)
 Output: stage1_llama_labels.csv
 
 The output contains all filtered reviews with a label_llama3 column.
@@ -154,7 +154,7 @@ def run(args: argparse.Namespace) -> None:
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Stage 1: Llama 3 labelling.")
-    parser.add_argument("--input",       default="brewpub_reviews_with_meta.csv")
+    parser.add_argument("--input",       default="PA_brewpub_reviews.csv")
     parser.add_argument("--output",      default="stage1_llama_labels.csv")
     parser.add_argument("--llama_model", default="llama3")
     parser.add_argument("--ollama_url",  default="http://localhost:11434")
