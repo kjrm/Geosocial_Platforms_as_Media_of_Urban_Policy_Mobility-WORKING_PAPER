@@ -9,4 +9,4 @@ It is organized into three folder, one per study.
 
 Each folder includes a `README.md` to orient access to the files.
 
-Thank you to Luke Pan (https://github.com/Xera-phix/platform-as-urban-policy-mobility-medium/tree/master) for help protoyping study's 1 and 3.
+Thank you to Luke Pan (https://github.com/Xera-phix/platform-as-urban-policy-mobility-medium/tree/master) for help protoyping parts of the studies.
