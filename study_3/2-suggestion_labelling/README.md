@@ -1,6 +1,8 @@
 # suggestion labelling
 
-This repository contains the code (`stage1_llama.py`, `stage2_gpt.py`, `stage3_combine.py`, `stage4_combine.py`) and input data (`PA_brewpub_reviews.csv`) necessary to complete the second part of study 3.
+This repository contains the code (`stage1_llama.py`, `stage2_gpt.py`, `stage3_combine.py`, `stage4_combine.py`) necessary to complete the second part of study 3.
+
+The input data (`PA_brewpub_reviews.csv`) used to complete this part is included in the preceding `1-sentiment_flows` repository. 
 
 Each of the files that requires LLM API calls includes setup instructions. The LLM-ensemled labelling process proceeds as follows:
 
